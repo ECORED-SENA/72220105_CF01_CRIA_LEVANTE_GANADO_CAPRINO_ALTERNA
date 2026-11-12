@@ -437,7 +437,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Razas lecheras
-                  p.mb-0 Se caracterizan por su alta producción de leche, buena conformación de la glándula mamaria y elevada eficiencia alimenticia. Se utilizan principalmente en sistemas especializados de producción láctea; entre ellas se encuentran #[b Saanen, Alpina Francesa, Toggenburg y La Mancha].
+                  p.mb-0 Se caracterizan por su alta producción de leche, buena conformación de la glándula mamaria y elevada eficiencia alimenticia. Se utilizan principalmente en sistemas especializados de producción láctea; entre ellas se encuentran #[b <i>Saanen</i>, Alpina Francesa, Toggenburg y La Mancha].
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img35.png', alt='' style="max-width: 500px").m-auto 
