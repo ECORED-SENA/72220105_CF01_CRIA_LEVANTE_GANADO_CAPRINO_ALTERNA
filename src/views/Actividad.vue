@@ -155,17 +155,17 @@ export default {
           opciones: [
             {
               id: 'a',
-              texto: 'Saanen.',
+              texto: '<i>Saanen</i>.',
               esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'Toggenburg.',
+              texto: '<i>Toggenburg</i>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Boer.',
+              texto: '<i>Boer</i>.',
               esCorrecta: true,
             },
             {
@@ -190,17 +190,17 @@ export default {
             },
             {
               id: 'b',
-              texto: 'Boer.',
+              texto: '<i>Boer</i>.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'Saanen.',
+              texto: '<i>Saanen</i>.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'Toggenburg.',
+              texto: '<i>Toggenburg</i>.',
               esCorrecta: false,
             },
           ],

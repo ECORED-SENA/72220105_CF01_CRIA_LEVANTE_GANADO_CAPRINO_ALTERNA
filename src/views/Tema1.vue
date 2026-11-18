@@ -437,7 +437,7 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 Razas lecheras
-                  p.mb-0 Se caracterizan por su alta producción de leche, buena conformación de la glándula mamaria y elevada eficiencia alimenticia. Se utilizan principalmente en sistemas especializados de producción láctea; entre ellas se encuentran #[b <i>Saanen</i>, Alpina Francesa, Toggenburg y La Mancha].
+                  p.mb-0 Se caracterizan por su alta producción de leche, buena conformación de la glándula mamaria y elevada eficiencia alimenticia. Se utilizan principalmente en sistemas especializados de producción láctea; entre ellas se encuentran #[b <i>Saanen</i>, Alpina Francesa, <i>Toggenburg</i> y <i>La Mancha</i>].
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img35.png', alt='' style="max-width: 500px").m-auto 
@@ -473,21 +473,21 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4 Anglo Nubian
+                  h4<i>Anglo Nubian</i>
                   p.mb-0 Raza de origen inglés y de #[b doble propósito]. Se caracteriza por la producción de leche con buen contenido de grasa, la producción de carne y su rusticidad.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img39.png', alt='' style="max-width: 500px").m-auto 
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4 Boer
-                  p.mb-0 Raza originaria de Sudáfrica con aptitud para #[b carne]. Presenta rápido crecimiento, gran desarrollo muscular y alto rendimiento en canal.
+                  h4<i>Boer</i>
+                  p.mb-0 Raza originaria de Sudáfrica con aptitud para #[b carne]. Presenta rápido crecimiento, gran desarrollo muscular y alto rendimiento en channel.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img40.png', alt='' style="max-width: 500px").m-auto 
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4 Saanen
+                  h4<i>Saanen</i>
                   p.mb-0 Raza de origen suizo especializada en #[b producción de leche]. Se caracteriza por su elevada producción láctea, temperamento dócil y adaptación a sistemas intensivos.
                 .col-xl-6
                   figure
@@ -676,14 +676,14 @@
             h5 Figura 2.
             span Distribución de razas caprinas según las zonas climáticas de Colombia
           figure(data-aos="zoom-in")
-            img(src='@/assets/curso/temas/t1/img53.png', alt='Mapa ilustrado de Colombia sobre la distribución de razas caprinas según el clima, con Anglo Nubian, Boer y razas criollas en zonas cálidas y secas, y Saanen, Alpina Francesa, Toggenburg y La Mancha en zonas templadas y frías. ').m-auto
+            img(src='@/assets/curso/temas/t1/img53.png', alt='Mapa ilustrado de Colombia sobre la distribución de razas caprinas según el clima, con Anglo Nubian, <i>Boer</i> y razas criollas en zonas cálidas y secas, y <i>Saanen</i>, Alpina Francesa, <i>Toggenburg</i> y La Mancha en zonas templadas y frías. ').m-auto
       .tarjeta--container.row.justify-content-center.mb-5.m-0(data-aos="zoom-in")
         .col-xl-6.col-md-10.tarjeta.color-acento-contenido.p-5.mb-4.mb-lg-0.text-white
           h2 Zonas cálidas y secas
-          p.mb-0 En el Caribe y los valles interandinos predominan la #[b Anglo Nubian, Boer y las razas criollas], debido a su rusticidad y tolerancia al calor. Estas características favorecen su adaptación a condiciones ambientales de mayor temperatura.
+          p.mb-0 En el Caribe y los valles interandinos predominan la #[b Anglo Nubian, <i>Boer</i> y las razas criollas], debido a su rusticidad y tolerancia al calor. Estas características favorecen su adaptación a condiciones ambientales de mayor temperatura.
         .col-xl-6.col-md-10.tarjeta.color-primario.p-5
           h2 Zonas templadas y frías
-          p.mb-0  En algunas áreas de la región Andina se adaptan razas lecheras como #[b Saanen, Alpina Francesa, Toggenburg y La Mancha], particularmente en sistemas semiintensivos e intensivos.
+          p.mb-0  En algunas áreas de la región Andina se adaptan razas lecheras como #[b <i>Saanen</i>, Alpina Francesa, <i>Toggenburg</i> y La Mancha], particularmente en sistemas semiintensivos e intensivos.
       p.mb-0 La selección de razas adaptadas a las condiciones locales favorece el bienestar animal, la eficiencia productiva y la reducción de costos relacionados con el manejo sanitario y nutricional. 
       Separador
       #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -1194,7 +1194,7 @@
       p.mb-5 A continuación, se presenta un video que explica las Cinco Libertades del bienestar animal y su aplicación en la producción caprina, destacando las principales prácticas que contribuyen a garantizar condiciones adecuadas de alimentación, alojamiento, sanidad, comportamiento y manejo.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/fuKjgV6NwCg?si=oRK6OJqf9gRRWtK8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/fuKjgV6NwCg?si=MOCzBB_lV_J4I1lL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption Video. Las cinco libertades del bienestar animal en la producción caprina
       .titulo-tercer-nivel.mb-5(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/t1/img2.svg')
