@@ -473,21 +473,21 @@
             SlyderA(tipo="b")
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4<i>Anglo Nubian</i>
+                  h4 <i>Anglo Nubian</i>
                   p.mb-0 Raza de origen inglés y de #[b doble propósito]. Se caracteriza por la producción de leche con buen contenido de grasa, la producción de carne y su rusticidad.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img39.png', alt='' style="max-width: 500px").m-auto 
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4<i>Boer</i>
+                  h4 <i>Boer</i>
                   p.mb-0 Raza originaria de Sudáfrica con aptitud para #[b carne]. Presenta rápido crecimiento, gran desarrollo muscular y alto rendimiento en channel.
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/t1/img40.png', alt='' style="max-width: 500px").m-auto 
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
-                  h4<i>Saanen</i>
+                  h4 <i>Saanen</i>
                   p.mb-0 Raza de origen suizo especializada en #[b producción de leche]. Se caracteriza por su elevada producción láctea, temperamento dócil y adaptación a sistemas intensivos.
                 .col-xl-6
                   figure
